@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef0d1cbf-ac51-4a52-a3e5-36fafa9dcda8" name="Default Changelist" comment="" />
+    <list default="true" id="ef0d1cbf-ac51-4a52-a3e5-36fafa9dcda8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/GRPCP1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashRequest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashRequest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashRequest$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashRequest$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashResponse$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashResponse$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashResponse$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashResponse$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordHashResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceGrpc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordValidateRequest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordValidateRequest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordValidateRequest$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordValidateRequest$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordValidateRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/PasswordValidateRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ie/gmit/ds/Passwords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ie/gmit/ds/Passwords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +35,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1SyGK3JVMFGQPxqKTjbbD3C3jj1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
@@ -31,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="JAR Application.GRPC-P1-1.0-SNAPSHOT-jar-with-dependencies.jar">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ie.gmit.ds.Client" />
       <module name="GRPCP1" />
@@ -58,8 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GRPC-P1-1.0-SNAPSHOT-jar-with-dependencies.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/GRPC-P1-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JAR Application.GRPC-P1-1.0-SNAPSHOT-jar-with-dependencies.jar" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.PasswordServer" />
       </list>
@@ -80,5 +120,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.proto" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
